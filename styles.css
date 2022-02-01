@@ -1,0 +1,19 @@
+#image {
+  width: 100%;
+  height: auto;
+  max-width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  }
+    .t2{
+      color:#1E2121;
+      font-size:84%;
+      text-align:center;
+    }
+    #article{
+      text-align: justify;
+    }
+  a{
+    text-decoration:none;
+  }
